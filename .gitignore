@@ -1,0 +1,8 @@
+*.sln
+*.dll
+*.vcxproj*
+/.vs
+/Code/PrisonBreakSrc/.vs/PrisonBreakSrc
+/Code/PrisonBreakSrc/PrisonBreakSrc/x64/Debug
+/Code/PrisonBreakSrc/x64/Debug
+/Code/PrisonBreakSrc/PrisonBreakSrc/.vs
