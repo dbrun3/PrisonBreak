@@ -6,4 +6,4 @@ Original concept by Saikrishna Yadavalli, Hassam Hussain, Tommy Castino, Joshua 
 
 This game was designed from scratch, without an engine, in order to learn about the game making process from the bottom up. All assets were drawn by the team.
 
-To play the game, download the x64 file which contains the necessary assests and dlls and run PrisonBreak.exe
+The game is already built for you! To play the game, download the x64 file which contains the necessary assests and dlls and run PrisonBreak.exe on Windows.
